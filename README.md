@@ -14,6 +14,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 ---
 
 ## 1. ADDITION
+<img width="972" height="690" alt="WhatsApp Image 2026-11-02 at 9 53 08 PM" src="https://github.com/user-attachments/assets/4d41cfb9-59c4-4406-a020-3898ec7a2133" />
 
 #### Algorithm
 
@@ -63,12 +64,14 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
+<img width="812" height="983" alt="image" src="https://github.com/user-attachments/assets/3810e043-17a7-4bfc-b613-d5f4e3480db2" />
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
 ## 2. SUBTRACTION
+<img width="967" height="617" alt="image" src="https://github.com/user-attachments/assets/05f96df1-7c32-42ed-b526-eddd78d8fdda" />
 
 #### Algorithm
 
@@ -112,6 +115,7 @@ END
 |                         |                          |
 
 #### Manual Calculations
+<img width="842" height="742" alt="image" src="https://github.com/user-attachments/assets/9602b6ec-a45e-4a8d-9d81-9df4c046785e" />
 
 (Add your calculation here)
 
@@ -121,6 +125,7 @@ END
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
 ## 3. MULTIPLICATION
+<img width="746" height="489" alt="image" src="https://github.com/user-attachments/assets/301a3971-4169-4dc3-b4ac-9eb4d2e49f27" />
 
 #### Algorithm
 
@@ -163,12 +168,14 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
+<img width="838" height="629" alt="image" src="https://github.com/user-attachments/assets/bbf3b669-4cf6-4545-89b4-835b88647663" />
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
 ## 4. DIVISION
+<img width="740" height="493" alt="image" src="https://github.com/user-attachments/assets/711ea015-930b-43ae-a7dd-6031aaa75e9e" />
 
 #### Algorithm
 
@@ -208,6 +215,7 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
+<img width="849" height="452" alt="image" src="https://github.com/user-attachments/assets/182e9e3e-35f5-4532-b9dc-1d566215f066" />
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
